@@ -18,8 +18,8 @@ It demonstrates data cleaning, transformation, and visualization to generate act
 
 ## Live Report
 View the live report here:  
-[OLA Data Analysis Dashboard](your_OLA_report_link_here](https://app.powerbi.com/view?r=eyJrIjoiYjVjODQ1MDYtZjAzZi00ZWNmLTk0ODctNTUxNDQ3Y2MyN2VmIiwidCI6ImEzMjBlOWZkLTczY2QtNDJkOC04N2M3LWQ4NjEwNDljYzY5MiJ9)l)
-
+[OLA Data Analysis Dashboard]
+https://app.powerbi.com/view?r=eyJrIjoiYjVjODQ1MDYtZjAzZi00ZWNmLTk0ODctNTUxNDQ3Y2MyN2VmIiwidCI6ImEzMjBlOWZkLTczY2QtNDJkOC04N2M3LWQ4NjEwNDljYzY5MiJ9
 ---
 
 ## Tools & Technologies
